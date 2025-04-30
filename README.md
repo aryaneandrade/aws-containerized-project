@@ -85,11 +85,26 @@ Abaixo está o diagrama que representa a arquitetura completa desenvolvida na mi
 
 ## 📷 Capturas de Tela
 
+### **Aplicação**
+
+### **Escalabilidade - Ação Programada para Simular uma Black Friday** 
 ![Escalabilidade](assets/escalabilidade.jpeg)
 
-![Deploy sem Downtime](assets/deploy-sem-downtime.jpeg)
+### **Configuração do Application Load Balancer (ALB)**
 
+![ALB](assets/alb.png)
 
+### **Deploy da Aplicação**
+
+![Deploy](assets/deploy.png)
+
+### **Configuração da Hosted Zone no Route 53**
+
+![Hosted Zone](assets/hosted-zone.png)
+
+### **Target Group do ALB**
+
+![Target ALB](assets/target-alb.png)
 
 ---
 
