@@ -87,6 +87,8 @@ Abaixo está o diagrama que representa a arquitetura completa desenvolvida na mi
 
 ### **Aplicação**
 
+![Aplicação](assets/app.png)
+
 ### **Escalabilidade - Ação Programada para Simular uma Black Friday** 
 ![Escalabilidade](assets/escalabilidade.jpeg)
 
