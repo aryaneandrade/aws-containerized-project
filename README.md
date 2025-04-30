@@ -21,7 +21,7 @@ Construir uma aplicação fullstack escalável e resiliente, utilizando orquestr
 
 Abaixo está o diagrama que representa a arquitetura completa desenvolvida na minha conta AWS durante o projeto:
 
-![Arquitetura da Solução](caminho/para/seu-diagrama.png)
+![Arquitetura da Solução](assets/architecture-project-aws.png)
 
 ---
 
@@ -85,7 +85,11 @@ Abaixo está o diagrama que representa a arquitetura completa desenvolvida na mi
 
 ## 📷 Capturas de Tela
 
-*(Inclua aqui prints do Console AWS, ECS, RDS, ALB ou da aplicação rodando, caso deseje)*
+![Escalabilidade](assets/escalabilidade.jpeg)
+
+![Deploy sem Downtime](assets/deploy-sem-downtime.jpeg)
+
+
 
 ---
 
