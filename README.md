@@ -87,28 +87,29 @@ Abaixo está o diagrama que representa a arquitetura completa desenvolvida na mi
 
 ### **Aplicação**
 
-![Aplicação](assets/app.png)
+![Aplicação](https://raw.githubusercontent.com/aryaneandrade/aws-containerized-project/main/assets/app.png)
 
 ### **Escalabilidade - Ação Programada para Simular uma Black Friday** 
-![Escalabilidade](assets/escalabilidade.jpeg)
+![Escalabilidade](https://raw.githubusercontent.com/aryaneandrade/aws-containerized-project/main/assets/escalabilidade.jpeg)
 
 ### **Configuração do Application Load Balancer (ALB)**
 
-![ALB](assets/alb.png)
+![ALB](https://raw.githubusercontent.com/aryaneandrade/aws-containerized-project/main/assets/alb.png)
 
 ### **Deploy da Aplicação**
 
-![Deploy](assets/deploy.png)
+![Deploy](https://raw.githubusercontent.com/aryaneandrade/aws-containerized-project/main/assets/deploy.png)
 
 ### **Configuração da Hosted Zone no Route 53**
 
-![Hosted Zone](assets/hosted-zone.png)
+![Hosted Zone](https://raw.githubusercontent.com/aryaneandrade/aws-containerized-project/main/assets/hosted-zone.png)
 
 ### **Target Group do ALB**
 
-![Target ALB](assets/target-alb.png)
+![Target ALB](https://raw.githubusercontent.com/aryaneandrade/aws-containerized-project/main/assets/target-alb.png)
 
 ---
+
 
 ## 📄 Licença
 
